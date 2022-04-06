@@ -1,7 +1,8 @@
-# HouserPaser
+# HouserParser
 Residential floor plan recognition and vectorization. Send post request to get vectorized result of floor plan for floor plan image.
 
-Houser parser service and demo presents high accuracy and intelligent to recognize elements in floor plan layouts. After processed by the houser parser, the json result gives the start point and end point of walls, windows, doors and bay windows in the interior floor plan image. Using the vectorized result, 3D house model can be established for design and other uses.
+HouseParser service and demo presents high accuracy and intelligent to recognize elements in floor plan layouts. After processed by the houser parser, the json result gives the start point and end point of walls, windows, doors and bay windows in the interior floor plan image. Using the vectorized result, 3D house model can be established for design and other uses.
+![image](https://github.com/universewill/HouserPaser/blob/main/1023.jpg.jpg)
 
 ## Client
 Python client demo to call house parser service is provided. Contact univese.will@gmail.com to get an account.
@@ -13,10 +14,10 @@ Play with the demo page to see if the result is useful to your need.
 Notice: the demo page call is limited to 10 times per day.
 
 ## Some Results
-![image](https://github.com/universewill/HouserPaser/blob/main/1023.jpg.jpg)
 ![image](https://github.com/universewill/HouserPaser/blob/main/1178.jpg.jpg)
 ![image](https://github.com/universewill/HouserPaser/blob/main/415.jpg.jpg)
 ![image](https://github.com/universewill/HouserPaser/blob/main/599.jpg.jpg)
+![image](https://github.com/universewill/HouserPaser/blob/main/1023.jpg.jpg)
 ![image](https://github.com/universewill/HouserPaser/blob/main/602.jpg.jpg)
 ![image](https://github.com/universewill/HouserPaser/blob/main/762.jpg.jpg)
 ![image](https://github.com/universewill/HouserPaser/blob/main/764.jpg.jpg)
