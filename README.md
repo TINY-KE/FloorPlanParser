@@ -1,8 +1,8 @@
-# HouseParser
+# FloorPlanParser
 Floor plan recognition and vectorization. Send request to get vectorized result of floor plan image.
 
-HouseParser service and demo presents high accuracy and intelligent to vectorize and recognize elements in floor plan layouts. After processed by the houser parser, the json result gives the start point and end point of walls, windows, doors and bay windows in the interior floor plan image. Using the vectorized result, 3D house model can be established for design and other uses.
-![image](https://github.com/universewill/HouserPaser/blob/main/771.jpg.jpg)
+FloorPlanParser service and demo presents high accuracy and intelligent to vectorize and recognize elements in floor plan layouts. After processed by the  parser, the json result gives the start point and end point of walls, windows, doors and bay windows in the interior floor plan image. Using the vectorized result, 3D house model can be established for design and other uses.
+![image](https://github.com/universewill/FloorPlanParser/blob/main/771.jpg.jpg)
 
 ## Client
 Python client demo to call house parser service is provided. Contact univese.will@gmail.com to get an account.
@@ -13,13 +13,13 @@ Play with the demo page to see if the result is useful to your need.
 Notice: the demo page call is limited to 10 times per day.
 
 ## Some Results
-![image](https://github.com/universewill/HouserPaser/blob/main/1178.jpg.jpg)
-![image](https://github.com/universewill/HouserPaser/blob/main/415.jpg.jpg)
-![image](https://github.com/universewill/HouserPaser/blob/main/599.jpg.jpg)
-![image](https://github.com/universewill/HouserPaser/blob/main/1023.jpg.jpg)
-![image](https://github.com/universewill/HouserPaser/blob/main/602.jpg.jpg)
-![image](https://github.com/universewill/HouserPaser/blob/main/762.jpg.jpg)
-![image](https://github.com/universewill/HouserPaser/blob/main/764.jpg.jpg)
-![image](https://github.com/universewill/HouserPaser/blob/main/771.jpg.jpg)
-![image](https://github.com/universewill/HouserPaser/blob/main/776.jpg.jpg)
-![image](https://github.com/universewill/HouserPaser/blob/main/983.jpg.jpg)
+![image](https://github.com/universewill/FloorPlanParser/blob/main/1178.jpg.jpg)
+![image](https://github.com/universewill/FloorPlanParser/blob/main/415.jpg.jpg)
+![image](https://github.com/universewill/FloorPlanParser/blob/main/599.jpg.jpg)
+![image](https://github.com/universewill/FloorPlanParser/blob/main/1023.jpg.jpg)
+![image](https://github.com/universewill/FloorPlanParser/blob/main/602.jpg.jpg)
+![image](https://github.com/universewill/FloorPlanParser/blob/main/762.jpg.jpg)
+![image](https://github.com/universewill/FloorPlanParser/blob/main/764.jpg.jpg)
+![image](https://github.com/universewill/FloorPlanParser/blob/main/771.jpg.jpg)
+![image](https://github.com/universewill/FloorPlanParser/blob/main/776.jpg.jpg)
+![image](https://github.com/universewill/FloorPlanParser/blob/main/983.jpg.jpg)
